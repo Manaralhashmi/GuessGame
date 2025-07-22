@@ -76,6 +76,6 @@ public class UserInfo {
 
         // Display updated user2 info
         System.out.println("Updated Info for Ali:");
-        user2.displayInfo();
+        user2.displayInfo(); //set
     }
 }
